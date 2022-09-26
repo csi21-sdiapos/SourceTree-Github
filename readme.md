@@ -1,4 +1,4 @@
-# Cómo subir los cambios de nuestro proyecto a Github desde SourceTree
+# Cómo subir los cambios de nuestro proyecto local a Github desde SourceTree
 
 ![](./img/1.png)
 
